@@ -2,9 +2,7 @@
 
 Project Overview
 
-The Place-User App is a full-stack web application built with the 
-
-MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and create a personal list of visited places, each featuring a title, description, image, and map location.
+The Place-User App is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and create a personal list of visited places, each featuring a title, description, image, and map location.
 
 
 Key Features
